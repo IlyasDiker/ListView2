@@ -1,5 +1,7 @@
 # ListView2
-Android training project
+Simple List View training Project 
+
+### Preview 
 
 
-https://i.imgur.com/RvCvLQl.jpg
+![](https://i.imgur.com/RvCvLQl.jpg)
